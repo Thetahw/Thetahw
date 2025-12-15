@@ -84,16 +84,8 @@ I believe that:
 
 ## 🌐 Let's Connect
 
-- <a href="https://github.com/Thetahw">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="22" height="22" style="vertical-align:middle; filter: brightness(0) invert(1);"/> GitHub
-</a>  
-
-- <a href="https://www.kaggle.com/YourUsername">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/kaggle.svg" alt="Kaggle" width="22" height="22" style="vertical-align:middle; filter: brightness(0) invert(1);"/> Kaggle
-</a>  
-
-- <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Gmail" width="22" height="22" style="vertical-align:middle; filter: brightness(0) invert(1);"/> Gmail: thetaha755@gmail.com
-</p>  <br><br>
+- Github: https://github.com/Thetahw
+- Kaggle: https://www.kaggle.com/thetahw
+- Gmail: thetaha755@gmail.com
 
 ⭐ Thanks for visiting my profile — more projects are coming soon!
